@@ -20,5 +20,6 @@ La información proviene del informe Statistical Review of World Energy publicad
 La base de datos se llama *oil-production.xlsx*   
 
 **Análisis realizados**   
+
 Los datos fueron previamente limpiados y transformados utilizando Power Query. A partir de este preporcesamiento, se construyeron visualizaciones y dashboards que permiten explorar y analizar la evolución de la producción de petróleo a lo largo del tiempo y, en particular, en el año 2021.   
 El archivo donde se realizaron los análisis de llama *Producción de Petróleo.pbix*
